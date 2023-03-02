@@ -48,3 +48,8 @@ hs_err_pid*
 !integration/**/**/**/**/*.war
 !integration/**/**/**/**/*.zip
 !integration/**/**/**/**/*.tar.gz
+
+.idea/
+
+
+
